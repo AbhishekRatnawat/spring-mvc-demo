@@ -37,6 +37,13 @@ Country:
 
 <br><br>
 
+	Operating system
+	Linux <form:checkbox path="favoriteOperatingsystem" value="Linux"/>
+	Mac OS <form:checkbox path="favoriteOperatingsystem" value="Mac OS"/>
+	MS Windows <form:checkbox path="favoriteOperatingsystem" value="MS Windows"/>
+	
+<br>
+
 <input type="submit" value="Submit" />
 </form:form>
 
